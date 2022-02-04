@@ -1,4 +1,5 @@
-website: https://www.lt.hn
+Website: https://www.lt.hn
 
-email: hello@lt.hn
+Email: hello@lt.hn
 
+Documentation: https://docs.lt.hn
